@@ -9,4 +9,7 @@ Index:
     
 - StopLoss_StopGain
     Simple calculation that picks up realtime ticker prices and outputs stoploss and stopgain figures based on your own measures. Nothing crazy. Potential for integration into later trading system process for automatic trading.
+    
+- Twitter DataFeed
+    Polling Twitter for Sentiment on Stocks. One of a few measures to help calculate market sentiment.
 
