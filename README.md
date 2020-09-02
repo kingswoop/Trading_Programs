@@ -1,5 +1,5 @@
 # Trading_Programs
-
+  
 This is the Node foldere to various trading programs. This may be in the form as simple analysis, trading algorithms or general random test scripts. Time will tell...
 
 
