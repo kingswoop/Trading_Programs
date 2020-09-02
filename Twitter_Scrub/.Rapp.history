@@ -1,0 +1,101 @@
+ls
+l
+a
+a <- 3
+print(a)
+library(janitor)#
+library(lubridate)#
+library(hms)#
+library(tidyr)#
+library(stringr)#
+library(readr)#
+library(openxlsx)#
+library(forcats)#
+library(RcppRoll)#
+library(dplyr)#
+library(tibble)#
+library(exploratory)
+exploratory::setTokenInfo("twitter", as.environment(list(user_id = "3039914070", screen_name = "Axe_Why", oauth_token = "3039914070-PeE1I4paM8Y7OWLAzfLq6lJnIy8if2Boe6ir4gQ", oauth_token_secret = "jfpEjEA17jFqXY16cyDQsNjWI07pJDnXbsCrzD8wf1f3h", consumer_sc = "wqP7VhX5yDEGzLL3eHSbT2wDlJvs4OitruIkd18CQZGzsySFuX")))
+install.packages("janitor")
+install.packages("lubridate")
+install.packages("hms")
+install.packages("tidyr")
+install.packages("stringr")
+install.packages("readr")
+install.packages("openxlsx")
+install.packages("forcats")
+install.packages("RcppRoll")
+install.packages("dplyr")
+install.packages("tibble")
+install.packages("exploratory")
+library(janitor)#
+library(lubridate)#
+library(hms)#
+library(tidyr)#
+library(stringr)#
+library(readr)#
+library(openxlsx)#
+library(forcats)#
+library(RcppRoll)#
+library(dplyr)#
+library(tibble)#
+library(exploratory)
+library(janitor)#
+library(lubridate)#
+library(hms)#
+library(tidyr)#
+library(stringr)#
+library(readr)#
+library(openxlsx)#
+library(forcats)#
+library(RcppRoll)#
+library(dplyr)#
+library(tibble)#
+library(exploratory)
+install.packages("exploratory")
+packageurl <- "https://cran.r-project.org/src/contrib/Archive/anonymizer/anonymizer_0.2.0.tar.gz"#
+install.packages(packageurl, repos=NULL, type="source")
+library(janitor)#
+library(lubridate)#
+library(hms)#
+library(tidyr)#
+library(stringr)#
+library(readr)#
+library(openxlsx)#
+library(forcats)#
+library(RcppRoll)#
+library(dplyr)#
+library(tibble)#
+library(exploratory)
+exploratory::setTokenInfo("twitter", as.environment(list(user_id = "3039914070", screen_name = "Axe_Why", oauth_token = "3039914070-PeE1I4paM8Y7OWLAzfLq6lJnIy8if2Boe6ir4gQ", oauth_token_secret = "jfpEjEA17jFqXY16cyDQsNjWI07pJDnXbsCrzD8wf1f3h", consumer_sc = "wqP7VhX5yDEGzLL3eHSbT2wDlJvs4OitruIkd18CQZGzsySFuX")))
+install.packages("devtools")#
+devtools::install_github("exploratory-io/exploratory_func")#
+library(exploratory)
+Yes
+library(janitor)#
+library(lubridate)#
+library(hms)#
+library(tidyr)#
+library(stringr)#
+library(readr)#
+library(openxlsx)#
+library(forcats)#
+library(RcppRoll)#
+library(dplyr)#
+library(tibble)#
+library(exploratory)
+install.packages("devtools")#
+devtools::install_github("exploratory-io/exploratory_func")#
+library(exploratory)
+install.packages("devtools")#
+devtools::install_github("exploratory-io/exploratory_func")
+library(exploratory)
+install.packages("remotes")#
+remotes::install_github("exploratory-io/exploratory_func")
+package or namespace load failed for ‘data.table’ in library.dynam(lib, package, package.lib):#
+ shared object ‘datatable.so’ not found#
+install.packages("data.table", #
+                 repos = "https://cloud.r-project.org")
+install.packages("remotes")#
+remotes::install_github("exploratory-io/exploratory_func")
+library(exploratory)
